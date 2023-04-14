@@ -30,7 +30,7 @@ La aplicación de clima ofrece las siguientes funcionalidades:
 
 ## Captura de pantalla de la aplicación
 
-![Captura de pantalla de la página de inicio](https://gyazo.com/50eb7377ac369eeb67d712a9dd4bef40)
+[![Image from Gyazo](https://i.gyazo.com/5b3514ca8e488c2dc34e911bfbef8503.gif)](https://gyazo.com/5b3514ca8e488c2dc34e911bfbef8503)
 *Figura 1: Captura de pantalla de la página de inicio de la aplicación de clima*
 
 
