@@ -1,4 +1,4 @@
-# Proyecto de una aplicación de clima 🌤
+# Aplicación de clima 🌤
 
 ¡Hola! 👋 Me complace presentarte mi proyecto de una aplicación de clima, en la cual he utilizado mis conocimientos de HTML, CSS, JavaScript y el uso de APIs con Fetch. 😁
 
